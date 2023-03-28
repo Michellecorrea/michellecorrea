@@ -1,4 +1,5 @@
-### Hi there ,  sou Michelle Corrêa
+## Olá,  me chamo **Michelle Corrêa**, Bem vindos ao meu Git Hub :v:
 
-- 🏫 Sou técnica em informática
-- 📚  Atualmente estou estudando a linguagem Python
+- [x] Sou Apaixonada em Tecnologia ;
+- [x] Sou técnica em informática para internet ;
+- [x] Atualmente estou estudando a linguagem Python ;
