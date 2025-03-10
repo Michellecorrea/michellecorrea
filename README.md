@@ -3,4 +3,4 @@
 - [x] Sou Apaixonada por Tecnologia ;
 - [x] Sou Técnica em Informática;
 - [x] Estou cursando Graduação em Sistemas para internet;
-- [x] Atualmente estou estudando a linguagem Python.
+- [x] HTML CSS JS PHP.
