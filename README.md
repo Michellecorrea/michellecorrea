@@ -1,7 +1,7 @@
 ## Olá,  me chamo **Michelle Corrêa**, Bem vindo ao meu Git Hub :v:
 
 - [x] Sou Apaixonada por Tecnologia;
-- [x] Graduação em Sistemas para internet;
+- [x] Graduada em Sistemas para internet;
 - [x] Professora na rede FAETEC;
 - [x] Analista de dados;
 - [x] HTML | CSS | JS | Node | Next.js | MySQL | Neon;
