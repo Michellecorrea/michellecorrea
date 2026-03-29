@@ -2,7 +2,9 @@
 
 - [x] Sou Apaixonada por Tecnologia;
 - [x] Técnico em Informática concluído;
-- [x] cursando Graduação em Sistemas para internet;
-- [x] HTML CSS JS NODEJS MySQL 
-- [x] TOTVS CRM Educacional
+- [x] Graduação em Sistemas para internet;
+- [x] Professora na rede FAETEC;
+- [x] Analista de dados;
+- [x] HTML | CSS | JS | Node | Next.js | MySQL | Neon;
+- [x] TOTVS | CRM Educacional;
 
