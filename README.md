@@ -1,7 +1,6 @@
 ## Olá,  me chamo **Michelle Corrêa**, Bem vindo ao meu Git Hub :v:
 
 - [x] Sou Apaixonada por Tecnologia;
-- [x] Técnico em Informática concluído;
 - [x] Graduação em Sistemas para internet;
 - [x] Professora na rede FAETEC;
 - [x] Analista de dados;
