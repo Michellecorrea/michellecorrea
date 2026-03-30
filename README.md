@@ -4,6 +4,7 @@
 - [x] Graduada em Sistemas para internet;
 - [x] Professora na rede FAETEC;
 - [x] Analista de dados;
-- [x] HTML | CSS | JS | Node | Next.js | MySQL | Neon;
+- [x] HTML | CSS | JS | TypeScript | Node | Next.js;
+- [X] MySQL | Neon;
 - [x] TOTVS | CRM Educacional;
 
